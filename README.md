@@ -7,8 +7,11 @@ Just typing command line (in BASH shell),
 ```
 make help
 ```
+
+or
+
 ```
 make clean all
 ```
 
-Then it will work.
+Then it will work successfully.
