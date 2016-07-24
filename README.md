@@ -3,6 +3,7 @@ Implement the stack programs in C using singly linked list so that the size of t
 
 ##How to run this program
 This program is used with Linux, Gnu make, and GCC (Gnu compiler collection).
+
 Just typing command line (in BASH shell),
 "make help"
 "make clean all"
