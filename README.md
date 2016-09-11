@@ -11,7 +11,7 @@ make help
 or
 
 ```
-make clean all
+make clean dep all
 ```
 
 Then it will work successfully.
