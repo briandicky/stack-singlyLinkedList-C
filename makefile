@@ -19,7 +19,7 @@ main2.o: main2.c
 	$(CC) $(CFLAGS) -c main2.c
 
 dep:
-	@echo "Do nothing"
+	$(CC) -M *.c > .depend
 
 clean:
 	rm -f test1 test2 *.o
