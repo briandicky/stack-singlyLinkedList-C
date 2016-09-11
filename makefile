@@ -22,7 +22,7 @@ dep:
 	$(CC) -M *.c > .depend
 
 clean:
-	rm -f test1 test2 *.o
+	rm -f test1 test2 *.o .depend
 
 debug:
 	@echo "Debugger mode"
